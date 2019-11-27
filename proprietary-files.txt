@@ -16,7 +16,7 @@ vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 # Camera TNR - from prada (Redmi 4)
 vendor/lib/libllvd_smore.so
 vendor/lib/libllvd_sw_tnr.so
-vendor/lib/libmmcamera_sw_tnr
+vendor/lib/libmmcamera_sw_tnr.so
 
 # Camera
 bin/mm-qcamera-app:vendor/bin/mm-qcamera-app
