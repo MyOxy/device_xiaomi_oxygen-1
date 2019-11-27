@@ -129,6 +129,10 @@ PRODUCT_PACKAGES += \
     Gcam \
     Snap
 
+# Camera2
+PRODUCT_PACKAGES += \
+   Camera2
+
 # Consumerir
 PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-service.xiaomi_oxygen

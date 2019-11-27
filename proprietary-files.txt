@@ -13,6 +13,11 @@ vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 
+# Camera TNR - from prada (Redmi 4)
+vendor/lib/libllvd_smore.so
+vendor/lib/libllvd_sw_tnr.so
+vendor/lib/libmmcamera_sw_tnr
+
 # Camera
 bin/mm-qcamera-app:vendor/bin/mm-qcamera-app
 bin/mm-qcamera-daemon:vendor/bin/mm-qcamera-daemon
